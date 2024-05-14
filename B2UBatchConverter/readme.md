@@ -1,0 +1,1 @@
+此工具用來將big5編碼的source code轉為UTF8
